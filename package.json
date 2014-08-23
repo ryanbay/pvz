@@ -1,0 +1,29 @@
+{
+  "family": "arale",
+  "name": "pvz",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/ryanbay/pvz",
+  "author": "ryanbay",
+  "maintainers": [
+    "ryanbay"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryanbay/pvz.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "pvz.js",
+      "pvz.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
